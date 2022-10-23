@@ -2,8 +2,9 @@ package com.aaron.test;
 
 /**
  * @author Aaron
- * @mail qikunlele@outlook.com
- * @date 2022-10-23 12:09
  */
 public class Test {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
 }
